@@ -1,17 +1,226 @@
 ---
-
+const title = 'Being Human(e)';
+const description = 'A field guide to being human—and repeatedly choosing care.';
 ---
 
+<!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content={description} />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>{title}</title>
+		<style>
+			:root {
+				font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+				color: #25231f;
+				background: #f5f1e8;
+				font-synthesis: none;
+			}
+
+			* {
+				box-sizing: border-box;
+			}
+
+			body {
+				margin: 0;
+				min-height: 100vh;
+				line-height: 1.65;
+			}
+
+			a {
+				color: inherit;
+				text-decoration-thickness: 0.08em;
+				text-underline-offset: 0.18em;
+			}
+
+			a:hover,
+			a:focus-visible {
+				text-decoration-thickness: 0.14em;
+			}
+
+			.wrapper {
+				width: min(100% - 2rem, 72rem);
+				margin-inline: auto;
+			}
+
+			header {
+				padding-block: 1.25rem;
+				border-bottom: 1px solid rgba(37, 35, 31, 0.2);
+			}
+
+			header .wrapper {
+				display: flex;
+				align-items: baseline;
+				justify-content: space-between;
+				gap: 1rem;
+			}
+
+			.wordmark {
+				font-weight: 700;
+				letter-spacing: -0.02em;
+				text-decoration: none;
+			}
+
+			header nav {
+				display: flex;
+				gap: 1rem;
+				font-family: ui-sans-serif, system-ui, sans-serif;
+				font-size: 0.9rem;
+			}
+
+			main {
+				padding-block: clamp(4rem, 10vw, 8rem);
+			}
+
+			.hero {
+				max-width: 56rem;
+			}
+
+			.eyebrow {
+				margin: 0 0 1rem;
+				font-family: ui-sans-serif, system-ui, sans-serif;
+				font-size: 0.78rem;
+				font-weight: 700;
+				letter-spacing: 0.12em;
+				text-transform: uppercase;
+			}
+
+			h1 {
+				margin: 0;
+				font-size: clamp(3.3rem, 11vw, 8rem);
+				line-height: 0.92;
+				letter-spacing: -0.065em;
+			}
+
+			.lede {
+				max-width: 44rem;
+				margin-block: 2.25rem 0;
+				font-size: clamp(1.25rem, 3vw, 2rem);
+				line-height: 1.35;
+			}
+
+			.principle {
+				max-width: 42rem;
+				margin-block: 2rem 0;
+				padding-left: 1.25rem;
+				border-left: 3px solid currentColor;
+				font-size: 1.1rem;
+			}
+
+			.actions {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.8rem;
+				margin-top: 2.5rem;
+				font-family: ui-sans-serif, system-ui, sans-serif;
+			}
+
+			.button {
+				display: inline-block;
+				padding: 0.75rem 1rem;
+				border: 1px solid currentColor;
+				border-radius: 999px;
+				text-decoration: none;
+			}
+
+			.button:hover,
+			.button:focus-visible {
+				background: #25231f;
+				color: #f5f1e8;
+			}
+
+			.sections {
+				display: grid;
+				grid-template-columns: repeat(3, minmax(0, 1fr));
+				gap: 1rem;
+				margin-top: clamp(4rem, 10vw, 8rem);
+			}
+
+			.card {
+				padding-top: 1rem;
+				border-top: 1px solid rgba(37, 35, 31, 0.35);
+			}
+
+			.card h2 {
+				margin: 0;
+				font-size: 1.35rem;
+			}
+
+			.card p {
+				margin-bottom: 0;
+			}
+
+			footer {
+				padding-block: 1.5rem;
+				border-top: 1px solid rgba(37, 35, 31, 0.2);
+				font-family: ui-sans-serif, system-ui, sans-serif;
+				font-size: 0.85rem;
+			}
+
+			@media (max-width: 46rem) {
+				header .wrapper {
+					align-items: flex-start;
+					flex-direction: column;
+				}
+
+				.sections {
+					grid-template-columns: 1fr;
+					gap: 2rem;
+				}
+			}
+		</style>
 	</head>
 	<body>
-		<h1>Astro</h1>
+		<header>
+			<div class="wrapper">
+				<a class="wordmark" href="/">Being Human(e)</a>
+				<nav aria-label="Project links">
+					<a href="https://github.com/Root-Sequence/beinghumane-guide">Source</a>
+					<a href="https://rootsequence.systems/">Root Sequence</a>
+				</nav>
+			</div>
+		</header>
+
+		<main class="wrapper">
+			<section class="hero" aria-labelledby="page-title">
+				<p class="eyebrow">An unfinished field guide</p>
+				<h1 id="page-title">Being Human(e)</h1>
+				<p class="lede">A field guide to being human—and repeatedly choosing care.</p>
+				<p class="principle">
+					To be human is unfinished. To be humane is to keep choosing care: imperfectly,
+					contextually, and without pretending care erases accountability, boundaries, power,
+					or harm.
+				</p>
+				<div class="actions">
+					<a class="button" href="/core/finitude-love-continuance">Read: Finitude, Love, and Continuance</a>
+					<a class="button" href="https://github.com/Root-Sequence/beinghumane-guide/blob/main/README.md">About the project</a>
+				</div>
+			</section>
+
+			<section class="sections" aria-label="Project orientation">
+				<article class="card">
+					<h2>Field guide first</h2>
+					<p>Grounded observations and usable practices should stand at the front door.</p>
+				</article>
+				<article class="card">
+					<h2>Memoir second</h2>
+					<p>Personal experience supplies context and texture, not automatic universal authority.</p>
+				</article>
+				<article class="card">
+					<h2>Theory underneath</h2>
+					<p>Systems, history, and deeper frameworks remain available without becoming an entrance exam.</p>
+				</article>
+			</section>
+		</main>
+
+		<footer>
+			<div class="wrapper">
+				Part of the <a href="https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md">Root Sequence ecosystem</a>. Active, evolving, and intentionally unfinished.
+			</div>
+		</footer>
 	</body>
 </html>
