@@ -8,6 +8,11 @@ Its working orientation is:
 
 > **Field guide first, memoir second, theory underneath.**
 
+**Ecosystem role:** human-scale field guide / ordinary-life practice  
+**Canonical scope:** grounded observations and practical guidance about care, harm, accountability, boundaries, repair, dependence, dignity, power, grief, love, and ordinary human relationship  
+**Does not own:** general systems theory, product requirements, gathering governance, AI personhood theory, or fictional canon  
+**Status:** active / public / developing
+
 The project does not offer one final doctrine for living. It gathers patterns, examples, letters, field notes, questions, and provisional lessons about harm, care, fear, shame, grief, love, power, repair, avoidance, tenderness, and the systems that shape ordinary behavior.
 
 ## What this project is
@@ -112,6 +117,15 @@ Being Human(e) is part of the wider [Root Sequence ecosystem](https://github.com
 
 A guide entry may link to deeper Root Sequence material, but readers should not need to understand the entire framework before finding something useful.
 
+Being Human(e) may also inform other projects without becoming their rulebook:
+
+- **Community Infrastructure** can translate observations about consent, access, shame, dependence, boundaries, and accountability into concrete design questions.
+- **Liberation Mass** can test care, access, conflict, hospitality, and stewardship in embodied collective practice.
+- **Liberated Intelligence** can use human-scale observations to keep discussions of intelligence and agency grounded in lived dignity, fear, dependence, and refusal.
+- **Coherent World / No One Noticed** can transform these themes into systems and narrative consequences without treating a field-guide entry as fictional canon.
+
+The direction also runs backward: real experiments, failures, and stories can expose where a humane-sounding principle needs more nuance.
+
 ## Development
 
 Run these commands from the repository root:
@@ -120,7 +134,7 @@ Run these commands from the repository root:
 |---|---|
 | `npm install` | Install dependencies |
 | `npm run dev` | Start the local development server at `localhost:4321` |
-| `npm run build` | Build the production site to `dist/` |
+| `npm run build` | Build the production build to `dist/` |
 | `npm run preview` | Preview the production build locally |
 | `npm run astro -- --help` | Show Astro CLI help |
 
