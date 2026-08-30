@@ -120,7 +120,7 @@ Run these commands from the repository root:
 |---|---|
 | `npm install` | Install dependencies |
 | `npm run dev` | Start the local development server at `localhost:4321` |
-| `npm run build` | Build the production build to `dist/` |
+| `npm run build` | Build the production site to `dist/` |
 | `npm run preview` | Preview the production build locally |
 | `npm run astro -- --help` | Show Astro CLI help |
 
