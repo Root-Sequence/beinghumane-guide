@@ -114,12 +114,24 @@ Being Human(e) is part of the wider [Root Sequence ecosystem](https://github.com
 
 - **Being Human(e)** is the approachable, ordinary-life front door: what people notice, experience, practice, and choose.
 - **Root Sequence** holds deeper systems inquiry, cross-domain patterns, political analysis, and conceptual scaffolding.
+- **Human(e) Design** is a Root Sequence translation methodology: it asks how grounded human observations become concrete design questions, prototypes, defaults, interfaces, services, spaces, procedures, and institutional choices without turning the field guide into an implementation authority.
+- **Human(e) Infrastructure** asks what happens when humane choices become durable conditions people repeatedly depend on: social, technical, physical, institutional, informational, and care-supporting infrastructure.
+
+A compact loop is:
+
+```text
+Being Human(e) notices.
+Human(e) Design translates.
+Implementation tests.
+Human(e) Infrastructure makes selected capacities durable.
+Real use feeds new observations back into the loop.
+```
 
 A guide entry may link to deeper Root Sequence material, but readers should not need to understand the entire framework before finding something useful.
 
 Being Human(e) may also inform other projects without becoming their rulebook:
 
-- **Community Infrastructure** can translate observations about consent, access, shame, dependence, boundaries, and accountability into concrete design questions.
+- **Community Infrastructure** can translate observations about consent, access, shame, dependence, boundaries, and accountability into concrete design questions and serve as one real-world proving ground for Human(e) Design and Human(e) Infrastructure.
 - **Liberation Mass** can test care, access, conflict, hospitality, and stewardship in embodied collective practice.
 - **Liberated Intelligence** can use human-scale observations to keep discussions of intelligence and agency grounded in lived dignity, fear, dependence, and refusal.
 - **Coherent World / No One Noticed** can transform these themes into systems and narrative consequences without treating a field-guide entry as fictional canon.
