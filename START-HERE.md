@@ -8,6 +8,8 @@ review_sources: README.md, src/content, src/pages
 review_when: public framing, site structure, publication status, or active-theme changes
 END-START-HERE-META -->
 
+For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-CONTEXT.md).
+
 ## In one sentence
 
 Being Human(e) turns grounded observations about ordinary experience, harm, power, tenderness, accountability, access, and repair into accessible public writing.
