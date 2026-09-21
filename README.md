@@ -1,5 +1,7 @@
 # Being Human(e)
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 > **To be human is unfinished; to be humane is to keep choosing care.**
 
 **Being Human(e)** is a practical, evolving field guide built from observation, experience, uncertainty, and the repeated work of relating to other people without pretending anyone has completed being human.
