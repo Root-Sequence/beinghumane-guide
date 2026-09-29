@@ -34,7 +34,7 @@ This is an active public Astro site and writing repository. It contains evolving
 
 ## Ecosystem connections
 
-Being Human(e) grounds Root Sequence in ordinary human experience. It may inform Human(e) Design, Community Infrastructure, Liberation Mass, Coherent Computing, and creative projects. Those projects remain responsible for translating observations into their own requirements and evidence rather than citing “humane” as self-justifying authority.
+Being Human(e) grounds Root Sequence in ordinary human experience. It may inform Human(e) Design, Community Infrastructure, Liberation Mass, Coherent Computing, and creative projects. Its explicit Existential Euphoria connection asks what wonder, finitude, and possibility mean for ordinary care while preserving grief, boundaries, refusal, and different responses. Being Human(e) owns that human-scale treatment; Existential Euphoria retains its aesthetic and experiential framework. Those projects remain responsible for translating observations into their own requirements and evidence rather than citing “humane” as self-justifying authority.
 
 ## Inquiry and revision
 
