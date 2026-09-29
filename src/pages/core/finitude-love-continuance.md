@@ -59,6 +59,18 @@ Because love can continue, care is inheritable.
 - Build patterns of care that other people can inherit.
 - Pass forward less fear, shame, domination, and self-erasure than you received.
 
+## Wonder and ordinary care
+
+*Provisional connection, added September 28, 2026; AI-assisted wording for author review.*
+
+A brief sense of wonder can happen in an ordinary situation: hearing a song, sharing a meal, noticing that another person has a whole life as vivid and unfinished as your own. These are illustrative possibilities, not reports of a particular person’s experience.
+
+[Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria/blob/main/ROOT-SEQUENCE.md) gives this neighboring inquiry a home. Here, the practical question is what follows from the feeling. Does it help us listen, offer useful support, make room for someone’s refusal, or recognize our own need for rest?
+
+Finitude can also bring fear, anger, numbness, or grief. No one owes us a liberating interpretation of loss. Connection can include distance and boundaries; care does not require self-erasure.
+
+A small prompt to try: recall a moment when life felt unusually vivid. Did it change how you treated yourself or someone else? What care was needed, whether or not the feeling lasted?
+
 ## Related threads
 
 - Presence: being with people while they are here.

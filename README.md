@@ -133,6 +133,7 @@ A guide entry may link to deeper Root Sequence material, but readers should not 
 
 Being Human(e) may also inform other projects without becoming their rulebook:
 
+- **[Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria)** offers a developing connection between wonder, finitude, and possibility. [Finitude, Love, and Continuance](src/pages/core/finitude-love-continuance.md) explores a nearby human-scale question: how awareness of a temporary life can inform care while leaving room for grief, boundaries, and different responses.
 - **Community Infrastructure** can translate observations about consent, access, shame, dependence, boundaries, and accountability into concrete design questions and serve as one real-world proving ground for Human(e) Design and Human(e) Infrastructure.
 - **Liberation Mass** can test care, access, conflict, hospitality, and stewardship in embodied collective practice.
 - **Liberated Intelligence** can use human-scale observations to keep discussions of intelligence and agency grounded in lived dignity, fear, dependence, and refusal.
