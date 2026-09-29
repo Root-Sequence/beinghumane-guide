@@ -36,6 +36,12 @@ This is an active public Astro site and writing repository. It contains evolving
 
 Being Human(e) grounds Root Sequence in ordinary human experience. It may inform Human(e) Design, Community Infrastructure, Liberation Mass, Coherent Computing, and creative projects. Those projects remain responsible for translating observations into their own requirements and evidence rather than citing “humane” as self-justifying authority.
 
+## Inquiry and revision
+
+Being Human(e) translates Root Sequence's [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md) and [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md) at human scale. Contrasting perspectives should help reveal assumptions and missing experience without flattening lived accounts into interchangeable “sides,” and broader factual claims should remain open to stronger evidence.
+
+For consequential collective questions, humane practice includes enough time and access to understand, ask for clarification, change one's mind without shame, preserve disagreement, and distinguish being heard from being forced to agree.
+
 ## Working rules
 
 - Begin with a concrete human situation before abstraction.
