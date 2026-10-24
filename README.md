@@ -174,6 +174,8 @@ The repository currently includes an [MIT License](LICENSE). Before accepting pe
 
 ## Contributing perspectives
 
+These are proposed contribution practices. Permissions for personal stories still need separate agreement.
+
 Corrections, counterexamples, accessible explanations, and differing lived perspectives can help the guide become more useful. A contributor need not adopt the author's worldview or disclose a personal history. Distinguish observation, interpretation, sourced claims, and proposed guidance; keep disagreement visible where it matters.
 
 The [Root Sequence commons proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) provides shared collaboration questions while this project retains its ordinary-life scope and editorial decisions. Public issues and PRs are public: use only material intended and permitted for that audience. Contribution does not imply permission to publish someone else's experience, private drafts, or participant information.
